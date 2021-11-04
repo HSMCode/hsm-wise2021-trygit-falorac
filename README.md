@@ -4,7 +4,7 @@ Im Rahmen dieses Repositories teste ich grundlegende Git-Funktionen.
 
 ## Kurs Kurs Kurs
 
-Die *Formatierung* von unterschiedlichen _Wörtern_ hebt ~~nichts~~ diese **_hervor_**.
+Die **Formatierung** von unterschiedlichen _Wörtern_ hebt ~~nichts~~ diese **_hervor_**.
 
 ## Hochschule Mainz
 
